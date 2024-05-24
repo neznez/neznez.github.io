@@ -6,6 +6,10 @@ ul {
   
 }
 
+ul.a {
+  list-style-type: circle;
+}
+
 li {
   float: left;
 }
