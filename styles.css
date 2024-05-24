@@ -10,11 +10,11 @@ ul.a {
   list-style-type: circle;
 }
 
-li {
+ul li {
   float: left;
 }
 
-li a {
+ul li a {
   display: block;
   color: #666;
   text-align: center;
@@ -28,11 +28,11 @@ p {text-align: justify;
 padding-right: 17%;
 }
 
-li a:hover:not(.active) {
+ul li a:hover:not(.active) {
   background-color: #ddd;
 }
 
-li a.active {
+ul li a.active {
   color: white;
   background-color: #FF7A1E;
 }
