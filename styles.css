@@ -9,6 +9,8 @@ ul {
 ul.a {
   list-style-type: circle;
   list-style-position: outside;
+  padding: 1.1em;
+  margin: 1.1em;
    font-size: 1.1em;
    padding-left: 17%;
 
