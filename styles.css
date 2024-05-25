@@ -8,6 +8,10 @@ ul {
 
 ul.a {
   list-style-type: circle;
+  text-align: justify;
+   font-size: 1.1em;
+   padding-left: 17%;
+padding-right: 17%;
 }
 
 ul li {
