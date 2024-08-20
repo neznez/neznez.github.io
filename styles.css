@@ -41,7 +41,7 @@ ul li a:hover:not(.active) {
 
 ul li a.active {
   color: white;
-  background-color: #FF7A1E;
+  background-color: #c284e1;
 }
 figure { display: table; }
 
@@ -54,17 +54,17 @@ padding-right: 15%;}
 figcaption { display: table-caption; caption-side: bottom ; }
 
 h3 {font-size:1.6em;
-color: #FF7A1E;
+color: #c284e1;
 padding-left: 15%;
 padding-right: 15%;}
 
 h4 {font-size:1.2em;
-color:#FF7A1E;
+color:#c284e1;
 padding-left: 15%;
 padding-right: 15%;}
 
 h5 {font-size:1em;
-color:#FF7A1E;
+color:#c284e1;
 padding-left: 17%;
 padding-right: 15%;}
 
